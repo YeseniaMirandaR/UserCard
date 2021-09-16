@@ -1,0 +1,85 @@
+
+body{
+    display: flex;
+    align-content: center;
+}
+
+#top{
+    height: 135px;
+    width: 905px;
+    background-color: rgb(5, 165, 170);
+    margin-top: -548px;
+}
+
+
+.card {
+height: 550px;
+width: 2000px;
+background-color: rgb(255, 255, 255);
+border: 3px solid rgb(184, 182, 182);
+border-radius: 3px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+margin:500px;
+margin-top: 50px;
+padding:200 px;
+}
+
+.content{
+    display: inline-block;
+    margin: 50px;
+    margin-top: 45px;
+    margin-left: 80px;
+}
+
+.janeDoe{
+    margin-top: 25px;
+}
+.photo1{
+    height: 120px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 100px;
+    box-shadow: 1px 2px 5px 3px grey;
+    margin-left: 10px;
+    margin-top:
+}
+
+
+.location{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    margin-top: 40px;
+}
+.map{
+    height: 30px;
+}
+h2{
+    font-size: 20px;
+    margin-top: 0;
+    margin-left: 15px;
+}
+
+
+.descript{
+    margin-left: 0;
+    margin-top: 45px; 
+    margin-bottom: 40px;
+}
+.settings{
+    height: 25px;
+}
+
+
+.editprofile{
+    display: flex;
+    justify-content: left;
+    margin-top: 30px;
+}
+.imagesLink{
+    margin-left: 10px;
+    color: rgb(30, 43, 114);
+}
+
+
+
+
